@@ -1,1 +1,1 @@
-window.API_BASE="";
+window.API_BASE="https://royals-pressure-index.onrender.com/";
